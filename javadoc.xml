@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="." destdir="doc" doctitle="OODP_LAB_ASSIGNMENT_JAVADOC" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="miniprj" source="11" sourcepath="src" splitindex="true" use="true" version="true">
+            <link href="file:/C:/Personal%20Folder/University%20and%20Scholarship%20matters/CECZ2002%20Object-Oriented%20Design%20and%20Programming/OODP_MINIPRJ%20(1)/javadoc/"/>
+        </javadoc>
+    </target>
+</project>
